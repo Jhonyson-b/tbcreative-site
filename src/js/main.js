@@ -1,5 +1,5 @@
 // Substitua pelo link oficial do checkout da Kiwify.
-const CHECKOUT_KIWIFY = "";
+const CHECKOUT_KIWIFY = "https://pay.kiwify.com.br/QG6z4Q0";
 
 document.getElementById("year").textContent = new Date().getFullYear();
 
